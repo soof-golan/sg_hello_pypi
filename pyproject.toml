@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sg-hello-pypi"
-version = "0.1.1"
+version = "0.2.1"
 description = "Demo package to publish"
 authors = ["Soof Golan <soofgolan@gmail.com>"]
 license = "MIT"
